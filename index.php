@@ -9,7 +9,7 @@
 </head>
 <body class="bg-dark">
     <div class="container text-white">
-        <div class="text-center my-5">
+        <div class="text-center text-primary my-5">
             <h1>PHP Badwords</h1>
         </div>
         <div class="row py-5">
